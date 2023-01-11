@@ -14,6 +14,8 @@
 		E2AF3A8A296DDF950075562E /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AF3A89296DDF950075562E /* SearchBarView.swift */; };
 		E2AF3A8D296DE2C80075562E /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AF3A8C296DE2C80075562E /* PostModel.swift */; };
 		E2AF3A8F296DE2E90075562E /* NetworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AF3A8E296DE2E90075562E /* NetworkModel.swift */; };
+		E2BF11E4296F18190031CB11 /* InvitationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BF11E3296F18190031CB11 /* InvitationView.swift */; };
+		E2BF11E6296F205F0031CB11 /* MyNetworkScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2BF11E5296F205F0031CB11 /* MyNetworkScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		E2AF3A89296DDF950075562E /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
 		E2AF3A8C296DE2C80075562E /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
 		E2AF3A8E296DE2E90075562E /* NetworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkModel.swift; sourceTree = "<group>"; };
+		E2BF11E3296F18190031CB11 /* InvitationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvitationView.swift; sourceTree = "<group>"; };
+		E2BF11E5296F205F0031CB11 /* MyNetworkScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNetworkScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 			isa = PBXGroup;
 			children = (
 				E2AF3A89296DDF950075562E /* SearchBarView.swift */,
+				E2BF11E3296F18190031CB11 /* InvitationView.swift */,
+				E2BF11E5296F205F0031CB11 /* MyNetworkScreen.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -167,6 +173,8 @@
 				E2AF3A8A296DDF950075562E /* SearchBarView.swift in Sources */,
 				E2AF3A8F296DE2E90075562E /* NetworkModel.swift in Sources */,
 				E2AF3A7B296DDB4F0075562E /* LinkedinApp.swift in Sources */,
+				E2BF11E4296F18190031CB11 /* InvitationView.swift in Sources */,
+				E2BF11E6296F205F0031CB11 /* MyNetworkScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
